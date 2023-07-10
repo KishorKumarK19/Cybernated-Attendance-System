@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "930140978028",
+    "project_id": "cybernated-attendance-system",
+    "storage_bucket": "cybernated-attendance-system.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:930140978028:android:8402a74bae32fa8f795149",
+        "android_client_info": {
+          "package_name": "com.example.cybernated_attendance_system"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "930140978028-dv3dc2uenq8vv5auonlatup91p0kfner.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAG1SnlBF_udH2yo2fWJSq_4C9rmkgs1M8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "930140978028-dv3dc2uenq8vv5auonlatup91p0kfner.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
